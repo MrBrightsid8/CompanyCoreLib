@@ -1,0 +1,6 @@
+D:\work\yd\new\CompanyCoreLib\CompanyCoreLib\bin\Release\CompanyCoreLib.dll
+D:\work\yd\new\CompanyCoreLib\CompanyCoreLib\bin\Release\CompanyCoreLib.pdb
+D:\work\yd\new\CompanyCoreLib\CompanyCoreLib\obj\Release\CompanyCoreLib.csproj.AssemblyReference.cache
+D:\work\yd\new\CompanyCoreLib\CompanyCoreLib\obj\Release\CompanyCoreLib.csproj.CoreCompileInputs.cache
+D:\work\yd\new\CompanyCoreLib\CompanyCoreLib\obj\Release\CompanyCoreLib.dll
+D:\work\yd\new\CompanyCoreLib\CompanyCoreLib\obj\Release\CompanyCoreLib.pdb
